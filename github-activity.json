@@ -1,0 +1,810 @@
+[
+  {
+    "id": "53755167132",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335942130,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "bf70804aec2b17142213dec736bbd417ee601476",
+      "before": "3068143c833075ee64cf537cb302cdd72a342ba5",
+      "commits": [
+        {
+          "sha": "bf70804aec2b17142213dec736bbd417ee601476",
+          "author": {
+            "email": "harshr20@iitk.ac.in",
+            "name": "Harsh Ranjan"
+          },
+          "message": "Add video for Game Recommendations feature",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/bf70804aec2b17142213dec736bbd417ee601476"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T08:19:11Z"
+  },
+  {
+    "id": "53755148535",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335929694,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "3068143c833075ee64cf537cb302cdd72a342ba5",
+      "before": "adc6581bca6ea88b9f4855e5c2aed0c396e666ab",
+      "commits": [
+        {
+          "sha": "3068143c833075ee64cf537cb302cdd72a342ba5",
+          "author": {
+            "email": "harshr20@iitk.ac.in",
+            "name": "Harsh Ranjan"
+          },
+          "message": "Update video embed syntax in README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/3068143c833075ee64cf537cb302cdd72a342ba5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T08:17:46Z"
+  },
+  {
+    "id": "53755098557",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335896055,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "adc6581bca6ea88b9f4855e5c2aed0c396e666ab",
+      "before": "364b9875173ced537919f98abe2d27447b23b424",
+      "commits": [
+        {
+          "sha": "adc6581bca6ea88b9f4855e5c2aed0c396e666ab",
+          "author": {
+            "email": "harshr20@iitk.ac.in",
+            "name": "Harsh Ranjan"
+          },
+          "message": "Add video demo for desktop application",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/adc6581bca6ea88b9f4855e5c2aed0c396e666ab"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T08:14:05Z"
+  },
+  {
+    "id": "53754943889",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2",
+        "repository_url": "https://api.github.com/repos/1-harshr/Gamopedia",
+        "labels_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2/labels{/name}",
+        "comments_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2/comments",
+        "events_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2/events",
+        "html_url": "https://github.com/1-harshr/Gamopedia/issues/2",
+        "id": 3349280302,
+        "node_id": "I_kwDOPjPfw87HofYu",
+        "number": 2,
+        "title": "Implement Local db for favorites",
+        "user": {
+          "login": "1-harshr",
+          "id": 85447547,
+          "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/1-harshr",
+          "html_url": "https://github.com/1-harshr",
+          "followers_url": "https://api.github.com/users/1-harshr/followers",
+          "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+          "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+          "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+          "repos_url": "https://api.github.com/users/1-harshr/repos",
+          "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "assignees": [],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2025-08-24T08:02:42Z",
+        "updated_at": "2025-08-24T08:02:42Z",
+        "closed_at": null,
+        "author_association": "OWNER",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": null,
+        "reactions": {
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/2/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-08-24T08:02:43Z"
+  },
+  {
+    "id": "53754866165",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335744673,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "364b9875173ced537919f98abe2d27447b23b424",
+      "before": "ad233dddf0af85387e98e65eb112fb46aa70d719",
+      "commits": [
+        {
+          "sha": "364b9875173ced537919f98abe2d27447b23b424",
+          "author": {
+            "email": "harsh.ranjan@travenues.com",
+            "name": "harsh.ranjan"
+          },
+          "message": "docs: Update README.md to embed demo videos for enhanced accessibility",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/364b9875173ced537919f98abe2d27447b23b424"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:57:14Z"
+  },
+  {
+    "id": "53754840035",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335727733,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "ad233dddf0af85387e98e65eb112fb46aa70d719",
+      "before": "84ac044565b5e4b430832ea1ad4ab0a99a05fb29",
+      "commits": [
+        {
+          "sha": "ad233dddf0af85387e98e65eb112fb46aa70d719",
+          "author": {
+            "email": "harsh.ranjan@travenues.com",
+            "name": "harsh.ranjan"
+          },
+          "message": "docs: Enhance README.md with screenshots and demo videos for better project visualization",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/ad233dddf0af85387e98e65eb112fb46aa70d719"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:55:03Z"
+  },
+  {
+    "id": "53754829311",
+    "type": "PushEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "repository_id": 1043587011,
+      "push_id": 26335720612,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "84ac044565b5e4b430832ea1ad4ab0a99a05fb29",
+      "before": "d95fbae25abec1ec68e6046c1f5253307cba6c61",
+      "commits": [
+        {
+          "sha": "84ac044565b5e4b430832ea1ad4ab0a99a05fb29",
+          "author": {
+            "email": "harsh.ranjan@travenues.com",
+            "name": "harsh.ranjan"
+          },
+          "message": "feat: Add media assets and README for project documentation",
+          "distinct": true,
+          "url": "https://api.github.com/repos/1-harshr/Gamopedia/commits/84ac044565b5e4b430832ea1ad4ab0a99a05fb29"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:54:09Z"
+  },
+  {
+    "id": "53754481278",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 1,
+      "pull_request": {
+        "url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1",
+        "id": 2769642946,
+        "node_id": "PR_kwDOPjPfw86lFWXC",
+        "html_url": "https://github.com/1-harshr/Gamopedia/pull/1",
+        "diff_url": "https://github.com/1-harshr/Gamopedia/pull/1.diff",
+        "patch_url": "https://github.com/1-harshr/Gamopedia/pull/1.patch",
+        "issue_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/1",
+        "number": 1,
+        "state": "open",
+        "locked": false,
+        "title": "feat: Add parallax scroll effect to GameDetailsScreen",
+        "user": {
+          "login": "1-harshr",
+          "id": 85447547,
+          "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/1-harshr",
+          "html_url": "https://github.com/1-harshr",
+          "followers_url": "https://api.github.com/users/1-harshr/followers",
+          "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+          "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+          "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+          "repos_url": "https://api.github.com/users/1-harshr/repos",
+          "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "body": null,
+        "created_at": "2025-08-24T07:26:32Z",
+        "updated_at": "2025-08-24T07:26:32Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "assignees": [],
+        "requested_reviewers": [],
+        "requested_teams": [],
+        "labels": [],
+        "milestone": null,
+        "draft": false,
+        "commits_url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1/commits",
+        "review_comments_url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1/comments",
+        "review_comment_url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/comments{/number}",
+        "comments_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/1/comments",
+        "statuses_url": "https://api.github.com/repos/1-harshr/Gamopedia/statuses/71d4a097837ab758425c82caa53facb93f268729",
+        "head": {
+          "label": "1-harshr:optional/blur-background",
+          "ref": "optional/blur-background",
+          "sha": "71d4a097837ab758425c82caa53facb93f268729",
+          "user": {
+            "login": "1-harshr",
+            "id": 85447547,
+            "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/1-harshr",
+            "html_url": "https://github.com/1-harshr",
+            "followers_url": "https://api.github.com/users/1-harshr/followers",
+            "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+            "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+            "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+            "repos_url": "https://api.github.com/users/1-harshr/repos",
+            "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1043587011,
+            "node_id": "R_kgDOPjPfww",
+            "name": "Gamopedia",
+            "full_name": "1-harshr/Gamopedia",
+            "private": false,
+            "owner": {
+              "login": "1-harshr",
+              "id": 85447547,
+              "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+              "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/1-harshr",
+              "html_url": "https://github.com/1-harshr",
+              "followers_url": "https://api.github.com/users/1-harshr/followers",
+              "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+              "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+              "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+              "repos_url": "https://api.github.com/users/1-harshr/repos",
+              "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/1-harshr/Gamopedia",
+            "description": "CMP and KMM based Game Encyclopedia",
+            "fork": false,
+            "url": "https://api.github.com/repos/1-harshr/Gamopedia",
+            "forks_url": "https://api.github.com/repos/1-harshr/Gamopedia/forks",
+            "keys_url": "https://api.github.com/repos/1-harshr/Gamopedia/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/1-harshr/Gamopedia/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/1-harshr/Gamopedia/teams",
+            "hooks_url": "https://api.github.com/repos/1-harshr/Gamopedia/hooks",
+            "issue_events_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/1-harshr/Gamopedia/events",
+            "assignees_url": "https://api.github.com/repos/1-harshr/Gamopedia/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/1-harshr/Gamopedia/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/1-harshr/Gamopedia/tags",
+            "blobs_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/1-harshr/Gamopedia/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/1-harshr/Gamopedia/languages",
+            "stargazers_url": "https://api.github.com/repos/1-harshr/Gamopedia/stargazers",
+            "contributors_url": "https://api.github.com/repos/1-harshr/Gamopedia/contributors",
+            "subscribers_url": "https://api.github.com/repos/1-harshr/Gamopedia/subscribers",
+            "subscription_url": "https://api.github.com/repos/1-harshr/Gamopedia/subscription",
+            "commits_url": "https://api.github.com/repos/1-harshr/Gamopedia/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/1-harshr/Gamopedia/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/1-harshr/Gamopedia/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/1-harshr/Gamopedia/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/1-harshr/Gamopedia/merges",
+            "archive_url": "https://api.github.com/repos/1-harshr/Gamopedia/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/1-harshr/Gamopedia/downloads",
+            "issues_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/1-harshr/Gamopedia/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/1-harshr/Gamopedia/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/1-harshr/Gamopedia/labels{/name}",
+            "releases_url": "https://api.github.com/repos/1-harshr/Gamopedia/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/1-harshr/Gamopedia/deployments",
+            "created_at": "2025-08-24T07:18:14Z",
+            "updated_at": "2025-08-24T07:18:53Z",
+            "pushed_at": "2025-08-24T07:26:11Z",
+            "git_url": "git://github.com/1-harshr/Gamopedia.git",
+            "ssh_url": "git@github.com:1-harshr/Gamopedia.git",
+            "clone_url": "https://github.com/1-harshr/Gamopedia.git",
+            "svn_url": "https://github.com/1-harshr/Gamopedia",
+            "homepage": null,
+            "size": 0,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "Kotlin",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": null,
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "base": {
+          "label": "1-harshr:main",
+          "ref": "main",
+          "sha": "d95fbae25abec1ec68e6046c1f5253307cba6c61",
+          "user": {
+            "login": "1-harshr",
+            "id": 85447547,
+            "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/1-harshr",
+            "html_url": "https://github.com/1-harshr",
+            "followers_url": "https://api.github.com/users/1-harshr/followers",
+            "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+            "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+            "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+            "repos_url": "https://api.github.com/users/1-harshr/repos",
+            "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 1043587011,
+            "node_id": "R_kgDOPjPfww",
+            "name": "Gamopedia",
+            "full_name": "1-harshr/Gamopedia",
+            "private": false,
+            "owner": {
+              "login": "1-harshr",
+              "id": 85447547,
+              "node_id": "MDQ6VXNlcjg1NDQ3NTQ3",
+              "avatar_url": "https://avatars.githubusercontent.com/u/85447547?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/1-harshr",
+              "html_url": "https://github.com/1-harshr",
+              "followers_url": "https://api.github.com/users/1-harshr/followers",
+              "following_url": "https://api.github.com/users/1-harshr/following{/other_user}",
+              "gists_url": "https://api.github.com/users/1-harshr/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/1-harshr/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/1-harshr/subscriptions",
+              "organizations_url": "https://api.github.com/users/1-harshr/orgs",
+              "repos_url": "https://api.github.com/users/1-harshr/repos",
+              "events_url": "https://api.github.com/users/1-harshr/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/1-harshr/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/1-harshr/Gamopedia",
+            "description": "CMP and KMM based Game Encyclopedia",
+            "fork": false,
+            "url": "https://api.github.com/repos/1-harshr/Gamopedia",
+            "forks_url": "https://api.github.com/repos/1-harshr/Gamopedia/forks",
+            "keys_url": "https://api.github.com/repos/1-harshr/Gamopedia/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/1-harshr/Gamopedia/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/1-harshr/Gamopedia/teams",
+            "hooks_url": "https://api.github.com/repos/1-harshr/Gamopedia/hooks",
+            "issue_events_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/1-harshr/Gamopedia/events",
+            "assignees_url": "https://api.github.com/repos/1-harshr/Gamopedia/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/1-harshr/Gamopedia/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/1-harshr/Gamopedia/tags",
+            "blobs_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/1-harshr/Gamopedia/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/1-harshr/Gamopedia/languages",
+            "stargazers_url": "https://api.github.com/repos/1-harshr/Gamopedia/stargazers",
+            "contributors_url": "https://api.github.com/repos/1-harshr/Gamopedia/contributors",
+            "subscribers_url": "https://api.github.com/repos/1-harshr/Gamopedia/subscribers",
+            "subscription_url": "https://api.github.com/repos/1-harshr/Gamopedia/subscription",
+            "commits_url": "https://api.github.com/repos/1-harshr/Gamopedia/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/1-harshr/Gamopedia/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/1-harshr/Gamopedia/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/1-harshr/Gamopedia/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/1-harshr/Gamopedia/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/1-harshr/Gamopedia/merges",
+            "archive_url": "https://api.github.com/repos/1-harshr/Gamopedia/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/1-harshr/Gamopedia/downloads",
+            "issues_url": "https://api.github.com/repos/1-harshr/Gamopedia/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/1-harshr/Gamopedia/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/1-harshr/Gamopedia/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/1-harshr/Gamopedia/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/1-harshr/Gamopedia/labels{/name}",
+            "releases_url": "https://api.github.com/repos/1-harshr/Gamopedia/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/1-harshr/Gamopedia/deployments",
+            "created_at": "2025-08-24T07:18:14Z",
+            "updated_at": "2025-08-24T07:18:53Z",
+            "pushed_at": "2025-08-24T07:26:11Z",
+            "git_url": "git://github.com/1-harshr/Gamopedia.git",
+            "ssh_url": "git@github.com:1-harshr/Gamopedia.git",
+            "clone_url": "https://github.com/1-harshr/Gamopedia.git",
+            "svn_url": "https://github.com/1-harshr/Gamopedia",
+            "homepage": null,
+            "size": 0,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "Kotlin",
+            "has_issues": true,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 1,
+            "license": null,
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "main"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1"
+          },
+          "html": {
+            "href": "https://github.com/1-harshr/Gamopedia/pull/1"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/issues/1"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/issues/1/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/comments{/number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/pulls/1/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/1-harshr/Gamopedia/statuses/71d4a097837ab758425c82caa53facb93f268729"
+          }
+        },
+        "author_association": "OWNER",
+        "auto_merge": null,
+        "active_lock_reason": null,
+        "merged": false,
+        "mergeable": null,
+        "rebaseable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "maintainer_can_modify": false,
+        "commits": 1,
+        "additions": 155,
+        "deletions": 145,
+        "changed_files": 1
+      }
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:26:33Z"
+  },
+  {
+    "id": "53754476895",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "ref": "feat/game-details",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "CMP and KMM based Game Encyclopedia",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:26:12Z"
+  },
+  {
+    "id": "53754476873",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "ref": "optional/blur-background",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "CMP and KMM based Game Encyclopedia",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:26:12Z"
+  },
+  {
+    "id": "53754384792",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "CMP and KMM based Game Encyclopedia",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:18:49Z"
+  },
+  {
+    "id": "53754377725",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 85447547,
+      "login": "1-harshr",
+      "display_login": "1-harshr",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/1-harshr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85447547?"
+    },
+    "repo": {
+      "id": 1043587011,
+      "name": "1-harshr/Gamopedia",
+      "url": "https://api.github.com/repos/1-harshr/Gamopedia"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "CMP and KMM based Game Encyclopedia",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-08-24T07:18:15Z"
+  }
+]
