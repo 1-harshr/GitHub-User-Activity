@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <h1>Github Activity</h1>
+        <form>
+            <input type="text" id="username" placeholder="Enter your username">
+            <button type="submit">Get Activity</button>
+        </form>
+        <div id="activity"></div>
+        <script>
+            const form = document.querySelector('form');
+            const activity = document.querySelector('#activity');
+            form.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const username = document.querySelector('#username').value;
+                fetch(`http://localhost:3000/?name=${username}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        activity.innerHTML = data.map(item => `<div>${item}</div>`).join('');
+                    });
+            });
+        </script>
+    </body>
+</html>
